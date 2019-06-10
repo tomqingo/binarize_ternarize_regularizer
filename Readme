@@ -1,0 +1,2 @@
+Four kinds of Regularizer for ternarized neural network
+l2, polynomial, periodic, periodic_grad
